@@ -426,7 +426,7 @@ class _HomepageState extends State<Homepage> {
                                     BlendMode.darken),
                                 fit: BoxFit.cover,
                                 image: AssetImage(
-                                  "images/FoodBackgroundImage.png",
+                                  "assets/images/FoodBackgroundImage.png",
                                 ))),
                         child: Row(
                           mainAxisAlignment: MainAxisAlignment.spaceAround,
