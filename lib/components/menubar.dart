@@ -7,7 +7,7 @@ import 'package:frontend/components/categoryitems.dart';
 import 'package:frontend/components/filter.dart';
 import 'package:frontend/components/homemenuitems.dart';
 import 'package:frontend/components/imageSlider.dart';
-import 'package:frontend/components/itemDetail.dart';
+import 'package:frontend/components/itemdetail.dart';
 import 'package:frontend/components/populeritems.dart';
 import 'package:frontend/fetchdata.dart';
 
